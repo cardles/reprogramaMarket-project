@@ -1,0 +1,14 @@
+{
+  "name": "novo-carrinho",
+  "version": "1.0.0",
+  "description": "",
+  "main": "carrinho-de-compras.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
